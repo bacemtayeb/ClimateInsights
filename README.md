@@ -6,7 +6,7 @@ DreamEyes is an innovative AI project addressing the challenges faced by the vis
 
 ## Presentation
 
-[![Watch the video](https://ibb.co/fvrYth9)]([https://onedrive.live.com/embed?resid=B4119A7CDAF33C61%21725&authkey=!AMv9K7Aj8bFSjSY](https://onedrive.live.com/embed?resid=B4119A7CDAF33C61%21855&authkey=!AIG7_CTZOvkDlqU))
+[![Watch the video]()]([https://onedrive.live.com/embed?resid=B4119A7CDAF33C61%21725&authkey=!AMv9K7Aj8bFSjSY](https://onedrive.live.com/embed?resid=B4119A7CDAF33C61%21855&authkey=!AIG7_CTZOvkDlqU))
 
 
 
