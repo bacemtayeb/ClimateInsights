@@ -2,7 +2,8 @@
 
 ## Overview
 
-DreamEyes is an innovative AI project addressing the challenges faced by the visually impaired community. As of 2021, there are approximately 36 million visually impaired individuals worldwide, impacting their daily tasks and social interactions. DreamEyes leverages deep learning to generate narrative descriptions of the surrounding environment, enhancing the interaction and experience of visually impaired individuals.
+Climate Insights highlights distributed processing systems capabilities (Apache Spark) for real-time analysis performed on meteorological data,aiming to thoroughly understand and predict atmospheric phenomena. This work employs PySpark, a Python API for Apache Spark, Spark Streaming and cloud computing (Google Cloud) to process large meteorological data
+in real-time. The analysis, performed in a mutli-cluster environment, delivers comprehensive and useful insights accessible via a user-friendly web interface powered by Streamlit. This abstract highlights the project’s importance and its potential impact on improving weather forecast techniques while relying on distributed processing systems.
 
 ## Presentation
 
